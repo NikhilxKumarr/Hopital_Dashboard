@@ -1,1 +1,1 @@
-Hopital Dashbord
+Hospital Dashbord
